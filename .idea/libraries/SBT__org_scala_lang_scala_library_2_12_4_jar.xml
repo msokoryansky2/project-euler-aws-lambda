@@ -15,7 +15,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang/scala-library/scala-library-2.12.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
